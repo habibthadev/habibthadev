@@ -63,10 +63,10 @@ Focused on writing **clean**, **robust**, and **production-ready** code that las
 
 ## 📈 GitHub Stats
 
-![Habib-0007's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Habib-0007&theme=tokyonight&show_icons=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Habib-0007&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=Habib-0007&theme=tokyonight)
-![Trophies](https://github-profile-trophy.vercel.app/?username=Habib-0007&theme=tokyonight)
+![Habib-0007's GitHub Stats](https://github-readme-stats.vercel.app/api?username=habibthadev&theme=tokyonight&show_icons=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=habibthadev&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=habibthadev&theme=tokyonight)
+![Trophies](https://github-profile-trophy.vercel.app/?username=habibthadev&theme=tokyonight)
 
 ---
 
@@ -80,6 +80,6 @@ Focused on writing **clean**, **robust**, and **production-ready** code that las
 
 ---
 
-![Visitor Count](https://profile-counter.glitch.me/Habib-0007/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/habibthadev/count.svg)
 
 > **“Shipping fast is cool. Shipping maintainable, secure code at scale is legendary.”**
