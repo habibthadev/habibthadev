@@ -1,6 +1,6 @@
 # 👋 Habib Adebayo
 
-**Fullstack Engineer** | React · TypeScript · Node.js · Tailwind
+**Fullstack Engineer** | React • TypeScript • Tailwind • Node.js • Express • DX === UX
 
 Building scalable web applications with modern tools. Focused on clean code, performance, and developer experience.
 
