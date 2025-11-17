@@ -8,9 +8,10 @@ Building scalable web applications with modern tools. Focused on clean code, per
 
 ## 🛠️ Tech Stack
 
-**Frontend:** React, TypeScript, Vite, Tailwind CSS, Zustand, Zod, Framer Motion  
+**Frontend:** React, TypeScript, Vite, Tailwind CSS, Zustand, Zod, GSAP, Framer Motion  
 **Backend:** Node.js, Express, JWT, Prisma, PostgreSQL, MongoDB  
-**Tools:** Docker, Vercel, GitHub Actions, Vitest, ESLint, Prettier
+**Tools:** Docker, Vercel, Git/GitHub Actions, Vitest, ESLint, Prettier
+**AI:** Gemini, OpenAI, AI SDK
 
 ---
 
